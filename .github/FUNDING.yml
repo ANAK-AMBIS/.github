@@ -1,0 +1,15 @@
+# ANAK-AMBIS — Sponsor Button
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+# Isi sesuai platform yang dipakai. Jika dikosongkan, button tidak muncul (aman).
+# Uncomment & isi jika sudah siap.
+
+# github: [ANAK-AMBIS]  # GitHub Sponsors username / org
+# patreon: anakambis
+# open_collective: anakambis
+# ko_fi: anakambis
+# tidelift: npm/contoh
+# community_bridge:
+# liberapay: anakambis
+# issuehunt:
+# otechie:
+# custom: ["https://saweria.co/anakambis", "https://trakteer.id/anakambis"]
