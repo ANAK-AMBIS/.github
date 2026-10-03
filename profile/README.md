@@ -9,8 +9,6 @@
 [![Organization](https://img.shields.io/badge/Org-ANAK--AMBIS-black?style=for-the-badge)](https://github.com/ANAK-AMBIS)
 [![Projects](https://img.shields.io/badge/Projects-Open%20Source-blue?style=for-the-badge)](#-projects)
 [![Lampung](https://img.shields.io/badge/From-Lampung-red?style=for-the-badge)](#)
-[![LaTex Praktikum Jarkom](https://github.com/ANAK-AMBIS/LaTex-Praktikum-Jaringan-Komputer)](#)
-[![MCP AI Cisco Trace](https://asdasd.com)](#)
 
 </div>
 
@@ -30,11 +28,12 @@ Kami fokus di:
 ---
 
 ## 🚀 Projects
-
 | Project | Deskripsi | Stack | Link |
 |---------|-----------|-------|------|
 | **LampungWifi** | Layanan & tools seputar konektivitas Lampung | JavaScript | [→ Repo](https://github.com/ANAK-AMBIS/LampungWifi) |
-| **.github** | Organization profile & community health files (repo ini) | Markdown | [→ Repo](https://github.com/ANAK-AMBIS/.github) |
+| **LaTex Praktikum Jarkom** | Template Praktikum Jaringan Komputer menggunakan Latex | Latex | [→ Repo](https://github.com/ANAK-AMBIS/LaTex-Praktikum-Jaringan-Komputer) |
+| **MCP AI Cisco Trace** | Tools untuk automisasi pengerjaan topology Praktikum Jaringan Komputer | Python | [→ Repo](https://github.com/ANAK-AMBIS/LampungWifi) |
+| **.github** | Organization profile & community health files (repo ini) | Markdown | [→ Repo](https://asdasd.com) |
 
 > Punya ide project? Buka Issue di repo terkait atau hubungi kami!
 
