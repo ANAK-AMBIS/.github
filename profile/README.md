@@ -9,6 +9,8 @@
 [![Organization](https://img.shields.io/badge/Org-ANAK--AMBIS-black?style=for-the-badge)](https://github.com/ANAK-AMBIS)
 [![Projects](https://img.shields.io/badge/Projects-Open%20Source-blue?style=for-the-badge)](#-projects)
 [![Lampung](https://img.shields.io/badge/From-Lampung-red?style=for-the-badge)](#)
+[![LaTex Praktikum Jarkom](https://github.com/ANAK-AMBIS/LaTex-Praktikum-Jaringan-Komputer)](#)
+[![MCP AI Cisco Trace](https://asdasd.com)](#)
 
 </div>
 
