@@ -32,8 +32,8 @@ Kami fokus di:
 |---------|-----------|-------|------|
 | **LampungWifi** | Layanan & tools seputar konektivitas Lampung | JavaScript | [→ Repo](https://github.com/ANAK-AMBIS/LampungWifi) |
 | **LaTex Praktikum Jarkom** | Template Praktikum Jaringan Komputer menggunakan Latex | Latex | [→ Repo](https://github.com/ANAK-AMBIS/LaTex-Praktikum-Jaringan-Komputer) |
-| **MCP AI Cisco Trace** | Tools untuk automisasi pengerjaan topology Praktikum Jaringan Komputer | Python | [→ Repo](https://github.com/ANAK-AMBIS/LampungWifi) |
-| **.github** | Organization profile & community health files (repo ini) | Markdown | [→ Repo](https://github.com/ANAK-AMBIS/mcp-ai-cisco-trace.git) |
+| **MCP AI Cisco Trace** | Tools untuk automisasi pengerjaan topology Praktikum Jaringan Komputer | Python | [→ Repo](https://github.com/ANAK-AMBIS/mcp-ai-cisco-trace.git) |
+| **.github** | Organization profile & community health files (repo ini) | Markdown | [→ Repo](#) |
 
 > Punya ide project? Buka Issue di repo terkait atau hubungi kami!
 
