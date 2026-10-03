@@ -1,47 +1,39 @@
 <div align="center">
 
-# ✨ ANAK AMBIS
+# ANAK AMBIS
 
 ### Anak Ambis Project
 
-> Wadah anak ambis yang belajar, build, dan grow bareng — dari Lampung untuk Indonesia.
+Komunitas open-source dari Lampung yang berfokus pada pengembangan web, infrastruktur jaringan, dan produk digital.
 
 [![Organization](https://img.shields.io/badge/Org-ANAK--AMBIS-black?style=for-the-badge)](https://github.com/ANAK-AMBIS)
-[![Projects](https://img.shields.io/badge/Projects-Open%20Source-blue?style=for-the-badge)](#-projects)
+[![Projects](https://img.shields.io/badge/Projects-Open%20Source-blue?style=for-the-badge)](#project)
 [![Lampung](https://img.shields.io/badge/From-Lampung-red?style=for-the-badge)](#)
 
 </div>
 
----
+## Tentang Kami
 
-## 👋 Tentang Kami
+Anak Ambis Project adalah organisasi open-source yang berpegang pada prinsip bahwa konsistensi lebih bernilai daripada ambisi sesaat. Kami belajar, membangun, dan berkembang bersama melalui project yang nyata dan dapat digunakan.
 
-**Anak Ambis Project** adalah organisasi open-source yang dibentuk oleh anak-anak ambis yang percaya bahwa **konsistensi > ambisi sesaat**.
+### Bidang Fokus
 
-Fokus kami:
+- **Web Development:** aplikasi web yang modern, cepat, dan fungsional.
+- **Konektivitas dan Infrastruktur:** layanan dan tools jaringan, salah satunya melalui LampungWifi.
+- **Produk Digital:** solusi yang benar-benar digunakan, bukan sekadar wacana.
 
-- 🌐 **Web Development** — modern, cepat, dan fungsional
-- 📶 **Konektivitas & Infrastruktur** — salah satunya lewat `LampungWifi`
-- 🚀 **Produk Digital** — build yang benar-benar dipakai, bukan cuma wacana
+## Project
 
-> *Ambis boleh, tapi harus tuntas.* — Anak Ambis
+| Project | Deskripsi | Stack | Repositori |
+|---------|-----------|-------|------------|
+| LampungWifi | Layanan dan tools seputar konektivitas di Lampung | JavaScript | [Lihat repo](https://github.com/ANAK-AMBIS/LampungWifi) |
+| LaTeX Praktikum Jarkom | Template laporan Praktikum Jaringan Komputer berbasis LaTeX | LaTeX | [Lihat repo](https://github.com/ANAK-AMBIS/LaTex-Praktikum-Jaringan-Komputer) |
+| MCP AI Cisco Trace | Tools otomasi pengerjaan topologi Praktikum Jaringan Komputer | Python | [Lihat repo](https://github.com/ANAK-AMBIS/mcp-ai-cisco-trace) |
+| .github | Profil organisasi dan community health files | Markdown | [Lihat repo](https://github.com/ANAK-AMBIS/.github) |
 
----
+Punya ide project? Silakan buka Issue di repositori terkait atau hubungi kami.
 
-## 🚀 Projects
-
-| Project | Deskripsi | Stack | Link |
-|---------|-----------|-------|------|
-| **LampungWifi** | Layanan dan tools seputar konektivitas Lampung | JavaScript | [→ Repo](https://github.com/ANAK-AMBIS/LampungWifi) |
-| **LaTeX Praktikum Jarkom** | Template laporan Praktikum Jaringan Komputer berbasis LaTeX | LaTeX | [→ Repo](https://github.com/ANAK-AMBIS/LaTex-Praktikum-Jaringan-Komputer) |
-| **MCP AI Cisco Trace** | Tools otomasi pengerjaan topologi Praktikum Jaringan Komputer | Python | [→ Repo](https://github.com/ANAK-AMBIS/mcp-ai-cisco-trace) |
-| **.github** | Profil organisasi dan community health files (repo ini) | Markdown | [→ Repo](https://github.com/ANAK-AMBIS/.github) |
-
-> 💡 Punya ide project? Buka Issue di repo terkait atau hubungi kami!
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
 
@@ -55,9 +47,7 @@ Fokus kami:
 
 </p>
 
----
-
-## 📂 Struktur Organisasi
+## Struktur Organisasi
 
 ```
 ANAK-AMBIS/
@@ -69,39 +59,31 @@ ANAK-AMBIS/
         └── README.md                    # file ini, tampil di github.com/ANAK-AMBIS
 ```
 
----
+## Cara Berkontribusi
 
-## 🤝 Cara Berkontribusi
+1. Fork repositori yang ingin Anda kontribusi.
+2. Buat branch baru: `git checkout -b feat/nama-fitur`.
+3. Commit dan push perubahan Anda.
+4. Buka Pull Request. Kami akan meninjau secepatnya.
 
-1. Fork repo yang ingin kamu kontribusi
-2. Buat branch baru: `git checkout -b feat/nama-fitur`
-3. Commit dan push perubahanmu
-4. Buka Pull Request — kami review secepatnya!
+Panduan lengkap akan tersedia di `CONTRIBUTING.md` pada masing-masing repositori.
 
-Baca juga `CONTRIBUTING.md` (akan datang) di repo masing-masing.
-
----
-
-## 📫 Connect
+## Kontak
 
 - **GitHub:** [github.com/ANAK-AMBIS](https://github.com/ANAK-AMBIS)
 - **Email:** *(tambahkan email organisasi)*
-- **Instagram / Sosial:** *(tambahkan link)*
+- **Media sosial:** *(tambahkan tautan)*
 
----
+## Tim
 
-## 👥 Tim
+Organisasi ini dibangun secara kolaboratif. Terima kasih kepada seluruh kontributor.
 
-Organisasi ini dibangun bareng, bukan solo. Terima kasih untuk semua kontributor!
-
-<!-- Tambahkan daftar member manual atau auto via contributors badge nanti -->
-
----
+<!-- Tambahkan daftar anggota secara manual atau otomatis melalui contributors badge -->
 
 <div align="center">
 
-**Built with ☕ & ambis — Anak Ambis Project**
+**Anak Ambis Project**
 
-*Dari Lampung, untuk karya yang berdampak.*
+Dari Lampung, untuk karya yang berdampak.
 
 </div>
