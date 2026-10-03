@@ -18,24 +18,26 @@
 
 **Anak Ambis Project** adalah organisasi open-source yang dibentuk oleh anak-anak ambis yang percaya bahwa **konsistensi > ambisi sesaat**.
 
-Kami fokus di:
-- 🌐 **Web Development** — modern, cepat, dan fungsional
-- 📶 **Konektivitas & Infrastruktur** — salah satunya via `LampungWifi`
-- 🚀 **Produk Digital** — build yang beneran dipakai, bukan cuma wacana
+Fokus kami:
 
-> Ambis boleh, tapi harus tuntas. — *Anak Ambis*
+- 🌐 **Web Development** — modern, cepat, dan fungsional
+- 📶 **Konektivitas & Infrastruktur** — salah satunya lewat `LampungWifi`
+- 🚀 **Produk Digital** — build yang benar-benar dipakai, bukan cuma wacana
+
+> *Ambis boleh, tapi harus tuntas.* — Anak Ambis
 
 ---
 
 ## 🚀 Projects
+
 | Project | Deskripsi | Stack | Link |
 |---------|-----------|-------|------|
-| **LampungWifi** | Layanan & tools seputar konektivitas Lampung | JavaScript | [→ Repo](https://github.com/ANAK-AMBIS/LampungWifi) |
-| **LaTex Praktikum Jarkom** | Template Praktikum Jaringan Komputer menggunakan Latex | Latex | [→ Repo](https://github.com/ANAK-AMBIS/LaTex-Praktikum-Jaringan-Komputer) |
-| **MCP AI Cisco Trace** | Tools untuk automisasi pengerjaan topology Praktikum Jaringan Komputer | Python | [→ Repo](https://github.com/ANAK-AMBIS/mcp-ai-cisco-trace.git) |
-| **.github** | Organization profile & community health files (repo ini) | Markdown | [→ Repo](#) |
+| **LampungWifi** | Layanan dan tools seputar konektivitas Lampung | JavaScript | [→ Repo](https://github.com/ANAK-AMBIS/LampungWifi) |
+| **LaTeX Praktikum Jarkom** | Template laporan Praktikum Jaringan Komputer berbasis LaTeX | LaTeX | [→ Repo](https://github.com/ANAK-AMBIS/LaTex-Praktikum-Jaringan-Komputer) |
+| **MCP AI Cisco Trace** | Tools otomasi pengerjaan topologi Praktikum Jaringan Komputer | Python | [→ Repo](https://github.com/ANAK-AMBIS/mcp-ai-cisco-trace) |
+| **.github** | Profil organisasi dan community health files (repo ini) | Markdown | [→ Repo](https://github.com/ANAK-AMBIS/.github) |
 
-> Punya ide project? Buka Issue di repo terkait atau hubungi kami!
+> 💡 Punya ide project? Buka Issue di repo terkait atau hubungi kami!
 
 ---
 
@@ -48,18 +50,23 @@ Kami fokus di:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 </p>
 
 ---
 
-## 📂 Struktur Organisasi Repo
+## 📂 Struktur Organisasi
 
 ```
 ANAK-AMBIS/
-├── LampungWifi   # project utama
-└── .github       # profile organization (kamu di sini)
-    └── profile/README.md  # file yang sedang kamu baca, tampil di github.com/ANAK-AMBIS
+├── LampungWifi                          # project utama
+├── LaTex-Praktikum-Jaringan-Komputer    # template laporan praktikum
+├── mcp-ai-cisco-trace                   # otomasi topologi Packet Tracer
+└── .github/
+    └── profile/
+        └── README.md                    # file ini, tampil di github.com/ANAK-AMBIS
 ```
 
 ---
@@ -68,7 +75,7 @@ ANAK-AMBIS/
 
 1. Fork repo yang ingin kamu kontribusi
 2. Buat branch baru: `git checkout -b feat/nama-fitur`
-3. Commit & Push
+3. Commit dan push perubahanmu
 4. Buka Pull Request — kami review secepatnya!
 
 Baca juga `CONTRIBUTING.md` (akan datang) di repo masing-masing.
@@ -77,7 +84,7 @@ Baca juga `CONTRIBUTING.md` (akan datang) di repo masing-masing.
 
 ## 📫 Connect
 
-- **GitHub Organization:** https://github.com/ANAK-AMBIS
+- **GitHub:** [github.com/ANAK-AMBIS](https://github.com/ANAK-AMBIS)
 - **Email:** *(tambahkan email organisasi)*
 - **Instagram / Sosial:** *(tambahkan link)*
 
@@ -85,7 +92,7 @@ Baca juga `CONTRIBUTING.md` (akan datang) di repo masing-masing.
 
 ## 👥 Tim
 
-Organisasi ini dibangun bareng — bukan solo. Terima kasih untuk semua kontributor!
+Organisasi ini dibangun bareng, bukan solo. Terima kasih untuk semua kontributor!
 
 <!-- Tambahkan daftar member manual atau auto via contributors badge nanti -->
 
